@@ -63,7 +63,7 @@ bash <(curl -L https://t.ly/tHxh)
     
    
 <div align="center">
- <a href="#"><img title="D6T-DADDY" src="https://img.shields.io/badge/SPARK SHADOW-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="D6T-DADDY" src="https://img.shields.io/badge/DADDY-FF-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
   
 <div align="center">
@@ -73,7 +73,7 @@ bash <(curl -L https://t.ly/tHxh)
 
     
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/aDZOvnl.jpeg" width="500" height="500"/> 
+  <img border-radius: 15px src="https://i.imgur.com/hv8OAwx.jpeg" width="500" height="500"/> 
 
 ---
 
