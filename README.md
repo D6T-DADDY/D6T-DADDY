@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/SPARK-SHADOW">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Shadow-V2+BOT...+Codded+by+Shadow..."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Daddy-ff+BOT...+Codded+by+Anzil..."
             alt="Typing SVG"
         />
     </a>
