@@ -17,7 +17,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SPARK-SHADOW">Anzil</a> to make it public
+Project created by <a href="https://github.com/D6T-DADDY">Anzil</a> to make it public
     <br>
        | © |
         Reserved |
