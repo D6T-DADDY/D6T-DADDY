@@ -49,7 +49,7 @@ Click WA logo to Join Support Group 👇👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/terror-boy/WhiteDevil)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/D6T-DADDY)
   </div>
 
 ## Setup
