@@ -71,7 +71,7 @@ bash <(curl -L https://t.ly/tHxh)
     
    
 <div align="center">
- <a href="#"><img title="D6T-DADDY" src="https://img.shields.io/badge/DADDY-FF-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="D6T-DADDY" src="https://img.shields.io/badge/DADDY-FF-yellow?colorA=%23ff0990&colorB=%23017e88&style=for-the-badge"></a>
 
   
 <div align="center">
