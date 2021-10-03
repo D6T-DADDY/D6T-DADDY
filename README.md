@@ -48,9 +48,7 @@ Click WA logo to Join Support Group 👇👇
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1)
   <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/D6T-DADDY)
-  </div>
+      </div>
 
 ## Setup
 <div align="center">
@@ -101,7 +99,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Spark-Shadow](https://camo.githubusercontent.com/9c184e56a76795eaeb8e7584424520de07a9aa4db57323f626ef9ff7730f62b9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f34644d3155373661415133646245366263332f67697068792e676966?size=250)](https://github.com/SPARK-SHADOW) 
   
-##   ᅠ »⃝͜⛦|sͥʜͭᴀᷤᴅᴏͫᴡͤ|⛦⃝͜« ᅠ
+##   ᅠ »⃝͜⛦|ᴀͥɴͭzᷤɪᷟʟͤ|⛦⃝͜« ᅠ
    <div align="center">
   
     
