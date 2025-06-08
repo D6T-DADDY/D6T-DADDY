@@ -46,7 +46,7 @@ the user is responsible.
 Click WA logo to Join Support Group 👇👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]([https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1](https://chat.whatsapp.com/Ju5jyfMa0UH0jXsXRdqrGi))
   <div align="center">
       </div>
 
